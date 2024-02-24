@@ -1,4 +1,5 @@
-BaseUrl: shalomgemeinde
+BaseUrl: https://handmadegame.dev
+url: shalomgemeinde
 # Site Build Settings
 
 # jekyll-paginate configuration
