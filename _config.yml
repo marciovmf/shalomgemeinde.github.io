@@ -13,10 +13,13 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Shalom Gemeinde"
-description:	       "Template for the Shalome Gemeinde page"
+description: >- # 	"Template for the Shalome Gemeinde page"
 author:              "Márcio Freitas"
-twitter: marciovmf
-social: marciovmf
+title: Shalom Gemeinde
+email: marciovmf@gmail.com
+://example.com
+twitter_username: @marciovmf
+github_username:  marciovmf
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
